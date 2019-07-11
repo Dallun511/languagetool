@@ -15,6 +15,7 @@
 .*artigel
 .*artigeln
 .*artigels
+.*-zuggriff
 Standart-.*
 Weihnachtsfreier/NS
 Weihnachtfreier/NS
